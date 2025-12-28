@@ -1,5 +1,9 @@
 # AiRRo - RAG-Based Search Engine (React + Flask)
 
+
+![demo gif](demo.gif)
+
+
 A Retrieval-Augmented Generation (RAG) powered search engine with a React frontend and a Python Flask backend.
 The frontend is fully decoupled from the backend and communicates via REST APIs, enabling seamless integration with any compatible backend implementation.
 
